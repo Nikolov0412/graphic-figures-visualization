@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\Graphic Figures\FiguresLibrary\bin\Debug\FiguresLibrary.dll
+C:\Users\Nikolay\Desktop\Graphic Figures\FiguresLibrary\bin\Debug\FiguresLibrary.pdb
+C:\Users\Nikolay\Desktop\Graphic Figures\FiguresLibrary\obj\Debug\FiguresLibrary.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Graphic Figures\FiguresLibrary\obj\Debug\FiguresLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Graphic Figures\FiguresLibrary\obj\Debug\FiguresLibrary.dll
+C:\Users\Nikolay\Desktop\Graphic Figures\FiguresLibrary\obj\Debug\FiguresLibrary.pdb
